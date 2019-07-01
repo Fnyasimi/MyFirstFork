@@ -8,7 +8,7 @@ Tagline: There's only one rule, Hunt or be Hunted
 
 
 ------
-Name: Mike Mwanga
+**Name: Mike Mwanga**
 
 Instituition: KWTRP
 
@@ -16,7 +16,7 @@ Tagline: `Think_Differently`
 
 
 -------
-Name: David Kiragu Mwaura
+**Name: David Kiragu Mwaura**
 
 Instituition: Jomo Kenyatta University of Agriculture and Technology(JKUAT)
 
